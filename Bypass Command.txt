@@ -1,0 +1,3 @@
+Bypass Online login :- start ms-cxh:localonly
+
+Bypass Internet Login :- oobe\bypassnro
